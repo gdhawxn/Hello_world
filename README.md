@@ -1,3 +1,3 @@
 # Hello_world
-Sample Repository
-This is a sample created to understand how Github works..
+Sample Repository ,
+Let's assume a vital change has been made.
